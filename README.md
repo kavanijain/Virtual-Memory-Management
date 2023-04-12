@@ -11,7 +11,7 @@ This is an operating system assignment conducted in my university which serves t
 - React JS (Front end development)
 
 ## Screenshot
-![Screenshot](./Screenshot.png)
+![Screenshot](./screenshot.png)
 
 ## Development Guide
 
