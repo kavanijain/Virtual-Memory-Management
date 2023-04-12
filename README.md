@@ -19,7 +19,7 @@ Project is supported at [http://localhost:3000](http://localhost:3000).
 
 ## Developed by
 Avani Jain   
-Ayush Anand
-Aryan Ashok Rajani
+Ayush Anand     
+Aryan Ashok Rajani    
 Atul Raj
 
