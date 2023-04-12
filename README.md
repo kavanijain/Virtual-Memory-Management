@@ -1,6 +1,6 @@
 
 
-## Simulation of Virtual Memory Paging Algorithms
+## Virtual Memory Management
 
 This is an operating system assignment conducted in my university which serves the purpose of visualizing virtual memory paging algorithms including First in First Out, Least Recently Used. 
 
