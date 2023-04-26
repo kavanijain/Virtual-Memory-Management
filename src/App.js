@@ -5,12 +5,12 @@ import {refStringGen} from "./utils/randomRefStringGen";
 import "font-awesome/css/font-awesome.css"
 import List from "./component/list";
 import {
-    aging,
+//     aging,
     firstInFirstOut,
     leastRecentlyUsed,
-    notFrequentlyUsed,
-    notRecentlyUsed,
-    secondChance
+//     notFrequentlyUsed,
+//     notRecentlyUsed,
+//     secondChance
 } from "./algorithms";
 
 class App extends Component{
@@ -35,7 +35,7 @@ class App extends Component{
     }
 
     handleFrameChange = ({target}) =>{
-        if((target.value <= 7 && target.value >=3) || target.value == 0)
+        if((target.value <= 7 && target.value >=3) || target.value === 0)
             this.setState({frameNumber: target.value});
     }
 
